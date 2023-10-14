@@ -153,9 +153,6 @@ Execute the program using runserver command.
 ## OUTPUT:
 ![Screenshot (20)](https://github.com/22003197/slot/assets/124332243/845b498f-0ebe-4592-9852-93303f906f92)
 
-
-
-
 ## HTML VALIDATOR:
 
 ![html](https://github.com/22003197/slot/assets/124332243/d2d46698-f77f-4273-b962-bf807360b929)
